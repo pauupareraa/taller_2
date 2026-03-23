@@ -17,3 +17,4 @@ mkdir imatges
 cd imatges/
 touch info_imatge.txt
 echo "La imatge ha estat descarregada de texample.net" >> info_imatge.txt
+touch triangles_trikz.png
